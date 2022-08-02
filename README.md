@@ -1,7 +1,7 @@
 # astrophysics-library
 
 
-This Libary is ment for delivering high speed functions to finsish your astrophysical question qick and convinient without self implementing formulars into your C or julia project. It contains some of the most used fomulars and constands used in education and sience. You just have to insert your varibals and the rest is taken care of.
+This Libary is ment for delivering high speed functions to finsish your astrophysical question qick and convinient without self implementing formulars into your C or julia or python project. It contains some of the most used fomulars and constands used in education and sience. You just have to insert your varibals and the rest is taken care of.
 
 It conatains:
 
