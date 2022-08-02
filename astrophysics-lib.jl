@@ -31,7 +31,9 @@ function potential_energy(mK, mP, r)
   # r is the distance between the object and the centerpoint of the planet / star / black hole etc.
   G = 6,67 * 10 ^ -11
   minG = G -2 * G
-  (Epot = mK * mP;Epot = Epot/ r; Epot = Epot * minG
+  (Epot = mK * mP;Epot = Epot/ r; Epot = Epot * minG)
+  
+  return Epot
 end
 
   
